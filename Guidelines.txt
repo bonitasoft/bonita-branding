@@ -1,0 +1,38 @@
+1. Install Helvetica fonts
+In Windows, copy Helvetica font files in C:\Windows\Fonts
+
+2. Produce Installer Splashscreen
+Open Splashscreen-Installer.psd in Photoshop
+Select "Version" layer
+Edit text zone to change to the required version number
+Export as PNG or Save as BMP
+
+3. Produce Installer Logo
+Open Logo-Install.psd in Photoshop
+Select "Version" layer
+Edit text zone to change to the required version number
+Hide Community layer & Show Subscriptions layer
+Export as PNG
+Show Community layer & Hide Subscriptions layer
+Export as PNG
+
+4. Produce Splashscreen-Community.psd
+Open Splashscreen-Community.psd in Photoshop
+Select "Version" layer
+Edit text zone to change to the required version number
+Save as BMP
+
+5. Produce Splashscreen-Souscription.psd
+Open Splashscreen-Subscription in Photoshop
+Select "Version" layer
+Edit text zone to change to the required version number
+Save as BMP
+
+6. Produce Welcome page logos.psd
+Open Logo-Welcome.psd in Photoshop
+Select "Version" layer
+Edit text zone to change to the required version number
+Show Community layer and hide other editions layers
+Export as PNG
+Reproduce process for every edition
+
